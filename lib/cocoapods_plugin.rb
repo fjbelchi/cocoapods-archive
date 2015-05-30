@@ -1,1 +1,1 @@
-require 'pod/command/archive'
+require 'cocoapods-archive/command'
